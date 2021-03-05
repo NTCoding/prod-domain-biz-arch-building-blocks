@@ -35,3 +35,25 @@ All efforts to improve these building blocks and associated content are greatly 
 
 - Create an issue to suggest improvements, ask questions, or share experiences
 - Raise a pull request with any suggestions or improvements (if you need to update images, you can copy the content from the [Miro board](https://miro.com/app/board/o9J_lQi136o=/))
+
+## The Building Blocks
+
+These building blocks intentionally span business, software, and organizational architecture, with the goal of co-designing and jointly-optimising all three architectures. 
+
+This collection is not exhaustive. There may not be a building block which describes a concept in your architecture. Contributions and feedback are always welcome.
+
+### Products, Portfolios, and Domains
+
+![Products, portfolios, and domains](resources/product-portfolio-domain.jpg)
+
+An organization has one or more products that deliver [value propositions](https://www.shopify.co.uk/blog/value-proposition) to one or more customer segments. Products may be partitioned into [lines of business](https://www.gartner.com/en/information-technology/glossary/lob-line-of-business) which address specific business needs. A [product portfolio](https://www.investopedia.com/terms/p/product-portfolio.asp) is all of the products and services offered by a company.
+
+A domain is an area of expertise or interest to the business, in which the business develops capabilities such as the ability to register an account or place a trade. Products are powered by the capabilities that exist in the business domains.
+
+#### Value Proposition Types
+
+*** TODO ***
+
+#### Product Bundles & Product Lines
+
+*** TODO ***
