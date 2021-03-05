@@ -27,10 +27,11 @@ These building blocks draw inspiration heavily from the following resources:
 - [What is a Digital Product](https://www.romanpichler.com/blog/what-is-a-digital-product/), by Roman Pichler
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/), by Uber
 - [Team Topologies](https://teamtopologies.com/), by Matthew Skelton and Manuel Pais
+- [Business Model Generation](https://www.strategyzer.com/books/business-model-generation), by Alexander Osterwalder & Yves Pigneur
 
 ## Contributing
 
 All efforts to improve these building blocks and associated content are greatly appreciated and welcomed. The journey has only just started and the path ahead is unknown. This may turn out to be a failed attempt or it could improve the experience of many technology and product professional. If you'd like to help out, please do in the following ways:
 
 - Create an issue to suggest improvements, ask questions, or share experiences
-- Raise a pull request with any suggestions or improvements (if you need to update images, you can copy the content from the [Miro board](*****TODO*****))
+- Raise a pull request with any suggestions or improvements (if you need to update images, you can copy the content from the [Miro board](https://miro.com/app/board/o9J_lQi136o=/))
