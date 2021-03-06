@@ -82,6 +82,30 @@ A digital product may have multiple variations. All variations deliver the same 
 
 User journeys and experiences are what the user does and feels. They are outside of the software. An individual user journey is composed of one or more user tasks, and a user journey can span multiple products and variants.
 
+### Business Domains & Subdomains
+
+A business domain is a high-level, logical grouping of related business concepts. It can also be thought of as an area of interest or specialisation. 
+
+Business concepts within domains are leveraged to build capabilities that power products and contribute to delivering value propositions.
+
+There is no fixed size for a business domain. However, it's usually an area
+
+#### Subdomains
+
+![Business Domains & Subdomains](resources/business-domains-subdomains.jpg)
+
+A business domain can be decomposed until multiple subdomains; specialised areas within the parent domain. Subdomains should be sized that they are not too large for a single team to own.
+
+#### Domain Capabilities, Rules, and Entities
+
+![Capabilities, rules, and entities](resources/capbilities-rule-entities.jpg)
+
+A subdomain exposes one or more domain capabilities which are leveraged by product features or internal business workflows (subdomain to subdomain interactions).
+
+A domain capability can be an information provider and/or a service provider. Information providers supply domain-related information and service providers enable business transactions, processes, and workflows to be initiated.
+
+Within a subdomain, domain entities represent concepts from the domain with an identity and a lifecycle (akin to a state machine). [Business rules](https://www.techopedia.com/definition/28018/business-rule) can be associated with entities (or operate independently) to constrain the behaviour of systems or people.
+
 ### Architecture Layers
 
 ![Business Architecture Layers](resources/layers-overview.jpg)
