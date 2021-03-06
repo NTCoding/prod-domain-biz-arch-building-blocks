@@ -92,13 +92,13 @@ There is no fixed size for a business domain. However, it's usually an area
 
 #### Subdomains
 
-![Business Domains & Subdomains](resources/business-domains-subdomains.jpg)
+<img src="resources/business-domains-subdomains.jpg" width="250" />
 
 A business domain can be decomposed until multiple subdomains; specialised areas within the parent domain. Subdomains should be sized that they are not too large for a single team to own.
 
 #### Domain Capabilities, Rules, and Entities
 
-![Capabilities, rules, and entities](resources/capbilities-rule-entities.jpg)
+<img src="resources/capbilities-rule-entities.jpg" width="250" />
 
 A subdomain exposes one or more domain capabilities which are leveraged by product features or internal business workflows (subdomain to subdomain interactions).
 
