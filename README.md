@@ -31,7 +31,9 @@ These building blocks draw inspiration heavily from the following resources:
 
 ## Other Models to Consider
 
+- [Product Taxonomy: The Seven Domains Of Transformation](https://itrevolution.com/product-taxonomy-the-seven-domains-of-transformation/) by Ross Clanton, Amy Walters
 - [ArchiMate](https://pubs.opengroup.org/architecture/archimate3-doc/), by The Open Group
+
 
 ## Contributing
 
