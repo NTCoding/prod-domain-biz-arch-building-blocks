@@ -81,3 +81,15 @@ A digital product may have multiple variations. All variations deliver the same 
 ![User Experience & Journeys](resources/user-experience-journeys.jpg)
 
 User journeys and experiences are what the user does and feels. They are outside of the software. An individual user journey is composed of one or more user tasks, and a user journey can span multiple products and variants.
+
+### Architecture Layers
+
+![Business Architecture Layers](resources/layers-overview.jpg)
+
+Each of the building blocks sits within a conceptual layer. Layers on top depend on layers below.
+
+The visible aspects of a product that expose capabilities from business domains form the presentation layer.
+
+Business domains can either be scoped to a single line of business and live in the line of business layer, or scoped across the entire enterprise (leveraged by multiple lines of business) and live in the enterprise layer.
+
+In order for business domains to be developed and operated, infrastructure platforms, living in the infrastructure layer, are required.
