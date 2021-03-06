@@ -44,13 +44,13 @@ This collection is not exhaustive. There may not be a building block which descr
 
 You can also view these building blocks on the interactive [Miro board](https://miro.com/app/board/o9J_lQi136o=/).
 
-### Products, Portfolios, and Domains
+### Products, Portfolios, and Business Domains
 
 ![Products, portfolios, and domains](resources/product-portfolio-domain.jpg)
 
 An organization has one or more products that deliver [value propositions](https://www.shopify.co.uk/blog/value-proposition) to one or more customer segments. Products may be partitioned into [lines of business](https://www.gartner.com/en/information-technology/glossary/lob-line-of-business) which address specific business needs. A [product portfolio](https://www.investopedia.com/terms/p/product-portfolio.asp) is all of the products and services offered by a company.
 
-A domain is an area of expertise or interest to the business, in which the business develops capabilities such as the ability to register an account or place a trade. Products are powered by the capabilities that exist in the business domains.
+A business domain is an area of expertise or interest to the business, in which the business develops capabilities to deliver its value propositions such as the ability to register an account or place a trade. Products are powered by the capabilities that exist in the business domains.
 
 #### Value Proposition Types
 
@@ -75,3 +75,9 @@ A digital product provides features. Features can be grouped into product areas 
 ![Product Variants](resources/product-variants.jpg)
 
 A digital product may have multiple variations. All variations deliver the same value proposition. For example: Android, iOS, and web apps.
+
+### User Experience & Journeys
+
+![User Experience & Journeys](resources/user-experience-journeys.jpg)
+
+User journeys and experiences are what the user does and feels. They are outside of the software. An individual user journey is composed of one or more user tasks, and a user journey can span multiple products and variants.
