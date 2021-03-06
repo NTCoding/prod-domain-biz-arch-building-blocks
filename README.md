@@ -66,13 +66,13 @@ A group of products that are sold/used together is a bundle. Not all products ha
 
 #### Product Features & Areas
 
-![Product Features & Areas](resources/product-features-areas.jpg)
+<img src="resources/product-features-areas.jpg" width="450" />
 
 A digital product provides features. Features can be grouped into product areas for larger products.
 
 #### Product Variants
 
-![Product Variants](resources/product-variants.jpg)
+<img src="resources/product-variants.jpg" width="450" />
 
 A digital product may have multiple variations. All variations deliver the same value proposition. For example: Android, iOS, and web apps.
 
@@ -92,13 +92,13 @@ There is no fixed size for a business domain. However, it's usually an area
 
 #### Subdomains
 
-<img src="resources/business-domains-subdomains.jpg" width="250" />
+<img src="resources/business-domains-subdomains.jpg" width="450" />
 
 A business domain can be decomposed until multiple subdomains; specialised areas within the parent domain. Subdomains should be sized that they are not too large for a single team to own.
 
 #### Domain Capabilities, Rules, and Entities
 
-<img src="resources/capbilities-rule-entities.jpg" width="250" />
+<img src="resources/capbilities-rule-entities.jpg" width="450" />
 
 A subdomain exposes one or more domain capabilities which are leveraged by product features or internal business workflows (subdomain to subdomain interactions).
 
