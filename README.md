@@ -66,4 +66,6 @@ A group of products that are sold/used together is a bundle. Not all products ha
 
 #### Product Features & Areas
 
-*** TODO ****
+![Product Features & Areas](resources/product-features-areas.jpg)
+
+A digital product provides features. Features can be grouped into product areas for larger products.
