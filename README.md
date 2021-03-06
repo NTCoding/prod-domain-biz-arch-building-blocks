@@ -38,9 +38,11 @@ All efforts to improve these building blocks and associated content are greatly 
 
 ## The Building Blocks
 
-These building blocks intentionally span business, software, and organizational architecture, with the goal of co-designing and jointly-optimising all three architectures. 
+These building blocks intentionally span business, software, and organizational architecture, with the goal of co-designing and jointly-optimising all three architectures.
 
 This collection is not exhaustive. There may not be a building block which describes a concept in your architecture. Contributions and feedback are always welcome.
+
+You can also view these building blocks on the interactive [Miro board](https://miro.com/app/board/o9J_lQi136o=/).
 
 ### Products, Portfolios, and Domains
 
@@ -52,8 +54,16 @@ A domain is an area of expertise or interest to the business, in which the busin
 
 #### Value Proposition Types
 
-*** TODO ***
+![Internal & External Product Value Propositions](resources/internal-external-products.jpg)
 
-#### Product Bundles & Product Lines
+Products can offer different types of value proposition. External-facing products generate revenue or they can also help to sell other products. Internal products can help to increase employee/organizational productivity or reduce the costs of doing business.
 
-*** TODO ***
+#### Product Bundles 
+
+![Product Bundle](resources/product-bundle.jpg)
+
+A group of products that are sold/used together is a bundle. Not all products have to belong to a bundle. Roman Pichler uses the example of Microsoft Office.
+
+#### Product Features & Areas
+
+*** TODO ****
