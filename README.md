@@ -58,7 +58,7 @@ A domain is an area of expertise or interest to the business, in which the busin
 
 Products can offer different types of value proposition. External-facing products generate revenue or they can also help to sell other products. Internal products can help to increase employee/organizational productivity or reduce the costs of doing business.
 
-#### Product Bundles 
+#### Product Bundles
 
 ![Product Bundle](resources/product-bundle.jpg)
 
@@ -69,3 +69,9 @@ A group of products that are sold/used together is a bundle. Not all products ha
 ![Product Features & Areas](resources/product-features-areas.jpg)
 
 A digital product provides features. Features can be grouped into product areas for larger products.
+
+#### Product Variants
+
+![Product Variants](resources/product-variants.jpg)
+
+A digital product may have multiple variations. All variations deliver the same value proposition. For example: Android, iOS, and web apps.
