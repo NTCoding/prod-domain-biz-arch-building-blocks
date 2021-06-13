@@ -94,7 +94,7 @@ A business domain is a conceptual/logical grouping of related business concepts.
 
 Business concepts within domains are leveraged to build capabilities that power products and contribute to delivering value propositions.
 
-Domain is a fuzzy word which can apply at different levels of scale including Micro, Meso, and Macro.
+Domain is a fuzzy word which can apply at different levels of scale including Micro, Meso, and Macro. When people use the word "domain" it can refer to any level of scale which will need to be implicitly determined by context or explicitly stated.
 
 <img src="resources/domains_levels_of_scale.jpg" width="450" />
 
@@ -110,7 +110,7 @@ Domain is a fuzzy word which can apply at different levels of scale including Mi
 
 <img src="resources/capbilities-rule-entities.jpg" width="450" />
 
-A subdomain exposes one or more domain capabilities which are leveraged by product features or internal business workflows (subdomain to subdomain interactions).
+A domain exposes one or more domain capabilities which are leveraged by product features or internal business workflows (subdomain to subdomain interactions).
 
 A domain capability can be an information provider and/or a service provider. Information providers supply domain-related information and service providers enable business transactions, processes, and workflows to be initiated.
 
