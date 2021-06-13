@@ -90,17 +90,21 @@ User journeys and experiences are what the user does and feels. They are outside
 
 ### Business Domains & Subdomains
 
-A business domain is a high-level, logical grouping of related business concepts. It can also be thought of as an area of interest or specialisation. 
+A business domain is a conceptual/logical grouping of related business concepts. It can also be thought of as an area of interest or specialisation. 
 
 Business concepts within domains are leveraged to build capabilities that power products and contribute to delivering value propositions.
 
-There is no fixed size for a business domain. However, it's usually an area
+Domain is a fuzzy word which can apply at different levels of scale including Micro, Meso, and Macro.
 
-#### Subdomains
+<img src="resources/domains_levels_of_scale.jpg" width="450" />
 
-<img src="resources/business-domains-subdomains.jpg" width="450" />
+- **Micro Domain**: an area of the business that is small enough to be owned by a single team (aka subdomain in DDD)
 
-A business domain can be decomposed until multiple subdomains; specialised areas within the parent domain. Subdomains should be sized that they are not too large for a single team to own.
+- **Meso Domain**: an area of the business where a group of teams work together towards common goals (aka Domain in Uber DOMA)
+
+- **Macro Domain**: highest/enterprise level covering large areas of the business. Depending on the size of the company you may want to further qualify macro domains but I haven't had the need to yet.
+
+- **Top-level Domain**: the highest level of scale in an organization (in cases where macro is insufficient)
 
 #### Domain Capabilities, Rules, and Entities
 
