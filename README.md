@@ -88,15 +88,13 @@ A digital product may have multiple variations. All variations deliver the same 
 
 User journeys and experiences are what the user does and feels. They are outside of the software. An individual user journey is composed of one or more user tasks, and a user journey can span multiple products and variants.
 
-### Business Domains
+### Semantic Business Domains
 
-A business domain is a conceptual/logical grouping of related business concepts. It can also be thought of as an area of interest or specialisation. 
-
-Business concepts within domains are leveraged to build capabilities that power products and contribute to delivering value propositions.
+A semantic business domain is a conceptual/logical grouping of related business concepts. It can also be thought of as an area of interest or specialisation. An organization builds knowledge of customers and develops expertise in domains. A semantic business domain has the properties of a [semantic domain](https://en.wikipedia.org/wiki/Semantic_domain) which is "a specific place that shares a set of meanings, or a language that holds its meaning, within the given context of the place." Harriet Ottenheimer (2006)
 
 Domain is a fuzzy word which can apply at different levels of scale including Micro, Meso, and Macro. When people use the word "domain" it can refer to any level of scale which will need to be implicitly determined by context or explicitly stated.
 
-<img src="resources/domains_levels_of_scale.jpg" width="450" />
+<img src="resources/domains_levels_of_scale.jpg" width="650" />
 
 - **Micro Domain**: an area of the business that is small enough to be owned by a single team (aka subdomain in DDD)
 
