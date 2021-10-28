@@ -90,7 +90,7 @@ User journeys and experiences are what the user does and feels. They are outside
 
 ### Semantic Business Domains
 
-A semantic business domain is a conceptual/logical grouping of related business concepts. It can also be thought of as an area of interest or specialisation. An organization builds knowledge of customers and develops expertise in domains. A semantic business domain has the properties of a [semantic domain](https://en.wikipedia.org/wiki/Semantic_domain) which is "a specific place that shares a set of meanings, or a language that holds its meaning, within the given context of the place." Harriet Ottenheimer (2006)
+A semantic business domain (also referred to as just "domain" in this document) is a conceptual/logical grouping of related business concepts. It can also be thought of as an area of interest or specialisation. An organization builds knowledge of customers and develops expertise in domains. A semantic business domain has the properties of a [semantic domain](https://en.wikipedia.org/wiki/Semantic_domain) which is "a specific place that shares a set of meanings, or a language that holds its meaning, within the given context of the place." Harriet Ottenheimer (2006)
 
 Domain is a fuzzy word which can apply at different levels of scale including Micro, Meso, and Macro. When people use the word "domain" it can refer to any level of scale which will need to be implicitly determined by context or explicitly stated.
 
@@ -104,15 +104,14 @@ Domain is a fuzzy word which can apply at different levels of scale including Mi
 
 - **Top-level Domain**: the highest level of scale in an organization (in cases where macro is insufficient)
 
-#### Domain Capabilities, Rules, and Entities
+#### Domains vs Products and Platforms
 
-<img src="resources/capbilities-rule-entities.jpg" width="450" />
+Domains are conceptual in nature. They represent areas of knowledge and expertise. In contrast, platform and represent are more tangible. The relationship between two sets of concepts is fairly straightforward but has a few nuances.  
 
-A domain exposes one or more domain capabilities which are leveraged by product features or internal business workflows (subdomain to subdomain interactions).
+A single product may leverage capabilities from multiple micro-domains. 
 
-A domain capability can be an information provider and/or a service provider. Information providers supply domain-related information and service providers enable business transactions, processes, and workflows to be initiated.
+A single product may be considered to exist completely within a meso or macro-domain. 
 
-Within a subdomain, domain entities represent concepts from the domain with an identity and a lifecycle (akin to a state machine). [Business rules](https://www.techopedia.com/definition/28018/business-rule) can be associated with entities (or operate independently) to constrain the behaviour of systems or people.
 
 #### Domain Concepts
 
