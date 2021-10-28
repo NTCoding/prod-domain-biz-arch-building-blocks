@@ -28,6 +28,7 @@ These building blocks draw inspiration heavily from the following resources:
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/), by Uber
 - [Team Topologies](https://teamtopologies.com/), by Matthew Skelton and Manuel Pais
 - [Business Model Generation](https://www.strategyzer.com/books/business-model-generation), by Alexander Osterwalder & Yves Pigneur
+- [Producty Taxonom](https://itrevolution.com/product-taxonomy-the-seven-domains-of-transformation/) Clanton et al.
 
 ## Other Models to Consider
 
