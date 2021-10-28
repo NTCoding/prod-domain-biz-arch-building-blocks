@@ -110,6 +110,13 @@ Domains are conceptual in nature. They represent areas of knowledge and expertis
 
 ![productsvsplatforms](https://user-images.githubusercontent.com/692094/139246822-d29cce91-f593-430e-b35e-82b28412b3ff.jpg)
 
+On a more granular level, each conceptual micro-domain is realized as a microservice (aka domain service). Each service could be part of a product or platform:
+
+![physicalvsconceptual](https://user-images.githubusercontent.com/692094/139254059-2058c5fb-2200-48c5-ae05-c8aaef1f6875.jpg)
+
+Taking it further, an empowered product team is responsible for solving user needs in a micro domain, and responsible for building and running the software they create for that domain. If these three things aren't aligned, there will be a Conway's Law mismatch.
+
+![teamsproductsdomains](https://user-images.githubusercontent.com/692094/139255032-99bc7635-3b4b-44da-ad3a-5af4622ec4fc.jpg)
 
 #### Domain Things
 
