@@ -117,14 +117,14 @@ What actually are the things that exist within a domain and what lives outside a
 ![Screenshot 2021-10-28 at 10 50 09](https://user-images.githubusercontent.com/692094/139232293-12144324-a763-4626-82fd-fdecc618e3e2.png)
 
 
-### Architecture Layers
+### Business Architecture Layers
 
-![Business Architecture Layers](resources/layers-overview.jpg)
+![layers](https://user-images.githubusercontent.com/692094/139248945-263073e0-f7b8-4d15-b3a3-1ba7571819cd.jpg)
 
 Each of the building blocks sits within a conceptual layer. Layers on top depend on layers below.
 
 The visible aspects of a product that expose capabilities from business domains form the presentation layer.
 
-Business domains can either be scoped to a single line of business and live in the line of business layer, or scoped across the entire enterprise (leveraged by multiple lines of business) and live in the enterprise layer.
+Business domains can either be scoped to each layer of the product taxonomy (portfolio, group, or individual product), or fully enterprise wide as part, typically as part of API platforms.
 
 In order for business domains to be developed and operated, infrastructure platforms, living in the infrastructure layer, are required.
