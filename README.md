@@ -31,7 +31,6 @@ These building blocks draw inspiration heavily from the following resources:
 
 ## Other Models to Consider
 
-- [Product Taxonomy: The Seven Domains Of Transformation](https://itrevolution.com/product-taxonomy-the-seven-domains-of-transformation/) by Ross Clanton, Amy Walters
 - [ArchiMate](https://pubs.opengroup.org/architecture/archimate3-doc/), by The Open Group
 
 
@@ -50,13 +49,13 @@ This collection is not exhaustive. There may not be a building block which descr
 
 You can also view these building blocks on the interactive [Miro board](https://miro.com/app/board/o9J_lQi136o=/).
 
-### Products, Portfolios, and Business Domains
+### Product Taxonomy 
 
-![Products, portfolios, and domains](resources/product-portfolio-domain.jpg)
+[Clanton et al.](https://itrevolution.com/product-taxonomy-the-seven-domains-of-transformation/) talk about the importance of defining a product taxonomy when moving towwards a product-centric operating model. In their suggested taxonomy, an organization creates one or more products which can be combined into product groups. A product portfolio is the highest level of the taxonomy representing a collection of product groups.
 
-An organization has one or more products that deliver [value propositions](https://www.shopify.co.uk/blog/value-proposition) to one or more customer segments. Products may be partitioned into [lines of business](https://www.gartner.com/en/information-technology/glossary/lob-line-of-business) which address specific business needs. A [product portfolio](https://www.investopedia.com/terms/p/product-portfolio.asp) is all of the products and services offered by a company.
+Not all of the capabilities an organization develops belong to an single product, some are leveraged by multiple products. They are defined here as platforms. A good example is [Uber's Fulfillment platform](https://eng.uber.com/fulfillment-platform-rearchitecture/) which is used by more than 10 of it's products and services. 
 
-A business domain is an area of expertise or interest to the business, in which the business develops capabilities to deliver its value propositions such as the ability to register an account or place a trade. Products are powered by the capabilities that exist in the business domains.
+![taxonomy](https://user-images.githubusercontent.com/692094/139241825-8ff7761b-a32a-4a74-8dd5-759ba9b4be78.jpg)
 
 #### Value Proposition Types
 
