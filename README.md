@@ -106,7 +106,7 @@ Domain is a fuzzy word which can apply at different levels of scale including Mi
 
 #### Domains vs Products and Platforms
 
-Domains are conceptual in nature. They represent areas of knowledge and expertise. In contrast, platform and represent are more tangible. The relationship between two sets of concepts is fairly straightforward but has a few nuances. For example, a single product may leverage capabilities from multiple micro-domains while the same product could also be considered to exist within a meso domain.
+Domains are conceptual in nature. They represent areas of knowledge and expertise. In contrast, platforms and products are tangible or physical realizations of domain expertise and capabilties. The relationship between two sets of concepts is fairly straightforward but has a few nuances. For example, a single product may leverage capabilities from multiple micro-domains while the same product could also be considered to exist within a meso domain.
 
 ![productsvsplatforms](https://user-images.githubusercontent.com/692094/139246822-d29cce91-f593-430e-b35e-82b28412b3ff.jpg)
 
