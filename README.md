@@ -119,7 +119,7 @@ What actually are the things that exist within a domain and what lives outside a
 
 ### Business Architecture Layers
 
-![layers](https://user-images.githubusercontent.com/692094/139248945-263073e0-f7b8-4d15-b3a3-1ba7571819cd.jpg)
+![layers](https://user-images.githubusercontent.com/692094/139249757-bc7481fc-4e24-4bf5-a78f-7fdfbbb7f4df.jpg)
 
 Each of the building blocks sits within a conceptual layer. Layers on top depend on layers below.
 
