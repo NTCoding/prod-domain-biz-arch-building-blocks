@@ -122,7 +122,7 @@ Taking it further, an empowered product team is responsible for solving user nee
 
 What actually are the things that exist within a domain and what lives outside a domain? Here's my general thinking on the topic:
 
-![adomain2](https://user-images.githubusercontent.com/692094/139529694-492c87f1-4954-43ec-a014-012f57a221ae.jpg)
+![adomain3](https://user-images.githubusercontent.com/692094/139529755-dee9a3bd-8afa-4f05-8ca9-85adfe31bd35.jpg)
 
 
 ### Business Architecture Layers
