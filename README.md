@@ -96,11 +96,11 @@ Domain is a fuzzy word which can apply at different levels of scale including Mi
 
 <img src="resources/domains_levels_of_scale.jpg" width="650" />
 
-- **Micro Domain**: an area of the business that is small enough to be owned by a single team (aka subdomain in DDD)
+- **Micro Domain (Level 3)**: an area of the business that is small enough to be owned by a single team (aka subdomain in DDD)
 
-- **Meso Domain**: an area of the business where a group of teams work together towards common goals (aka Domain in Uber DOMA)
+- **Meso Domain (Level 2)**: an area of the business where a group of teams work together towards common goals (aka Domain in Uber DOMA)
 
-- **Macro Domain**: highest/enterprise level covering large areas of the business. Depending on the size of the company you may want to further qualify macro domains but I haven't had the need to yet.
+- **Macro Domain (Level 1)**: highest/enterprise level covering large areas of the business. Depending on the size of the company you may want to further qualify macro domains but I haven't had the need to yet.
 
 - **Top-level Domain**: the highest level of scale in an organization (in cases where macro is insufficient)
 
